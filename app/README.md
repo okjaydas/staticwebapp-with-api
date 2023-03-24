@@ -53,3 +53,5 @@ https://learn.microsoft.com/en-us/azure/developer/javascript/how-to/with-web-app
 cd app && npm install typescript --save-dev && npm install --force
 npm run build
 
+## to create serverless api
+func new --name hello --template "HTTP trigger" --authlevel "anonymous" --name hello --template "HTTP trigger" --authlevel "anonymous"
