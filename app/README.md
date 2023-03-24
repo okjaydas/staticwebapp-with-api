@@ -52,3 +52,4 @@ https://learn.microsoft.com/en-us/azure/developer/javascript/how-to/with-web-app
 ## ignore cd app && npm install typescript --legacy-peer-deps --save-dev && npm install --legacy-peer-deps
 cd app && npm install typescript --save-dev && npm install --force
 npm run build
+
